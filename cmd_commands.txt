@@ -1,0 +1,5 @@
+java -cp ".;c:/antlr/antlr-4.9.2-complete.jar;target/classes" org.antlr.v4.gui.TestRig it.unicam.cs.cmp.parser.generated.Regex s -gui
+
+java -cp ".;c:/antlr/antlr-4.9.2-complete.jar;target/classes" org.antlr.v4.Tool Regex.g4 -o C:\Users\RICCARDO\eclipse-workspace\LC2021-COLTRINARI-RICCARDO-APP\target\generated-sources\antlr4\it\unicam\cs\cmp\parser\generated -listener -visitor -encoding UTF-8
+
+java -cp ".;c:/antlr/antlr-4.9.2-complete.jar;target/classes" it.unicam.cs.cmp.Main

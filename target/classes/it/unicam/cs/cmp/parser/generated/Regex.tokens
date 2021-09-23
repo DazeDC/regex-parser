@@ -1,0 +1,13 @@
+T__0=1
+T__1=2
+EPSILON=3
+LETTER=4
+DIGIT=5
+PLUS=6
+KLEENE=7
+WS=8
+'('=1
+')'=2
+'epsilon'=3
+'+'=6
+'*'=7
